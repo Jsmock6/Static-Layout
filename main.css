@@ -1,0 +1,121 @@
+body {
+    background-image: url('../../../HTMLCSSPreWork/3-assets/netflix.jpg');
+
+    height: 700px;
+    background-position: center;
+    margin: 0;
+}
+
+.button {
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 3px;
+    color: white;
+    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 10px 20px;
+    
+}
+.centerText {
+    padding: 50px;
+    display: flex;
+    flex: 3;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1, h2, h3 {
+    color: white;
+    display: flex;
+    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+
+}
+.pageBreak {
+    background-color: gray;
+    height: 15px;
+}
+
+.secondText{
+    background-color: black;
+    padding: 50px;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+
+}
+.leftBox {
+    display: flex;
+    flex: 55;
+    flex-direction: column;
+
+}
+
+.rightBox {
+    display: flex;
+    flex: 45;
+}
+
+.header {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.searchBar {
+    display: flex;
+    justify-content: center;
+    
+}
+.pageBreak2 {
+    background-color: gray;
+    height: 15px;
+}
+.thirdText {
+    background-color: black;
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    padding: 50px;
+}
+.rightBox2 {
+    display: flex;
+    flex-direction: column;
+    flex: 45;
+}
+.leftBox2 {
+    display: flex;
+    flex: 55;
+}
+
+h1 {
+    font-size: 3.125rem;
+}
+
+h2{
+    font-size: 26px;
+}
+
+h3{
+    font-size: 19.2px;
+}
+
+.signInButton {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.emailBar {
+    border-radius: 5px;
+    width: 600px;
+    height: 65px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}

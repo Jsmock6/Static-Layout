@@ -1,5 +1,5 @@
 body {
-    background-image: url('../../../HTMLCSSPreWork/3-assets/netflix.jpg');
+    background-image: url(../staticLayout/assets/netflix.jpg);
     height: 800px;
     background-position: center;
     margin: 0;

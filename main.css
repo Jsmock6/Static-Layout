@@ -1,7 +1,6 @@
 body {
     background-image: url('../../../HTMLCSSPreWork/3-assets/netflix.jpg');
-
-    height: 700px;
+    height: 800px;
     background-position: center;
     margin: 0;
 }
@@ -33,8 +32,8 @@ h1, h2, h3 {
 
 }
 .pageBreak {
-    background-color: gray;
-    height: 15px;
+    background-color: darkgray;
+    height: 10px;
 }
 
 .secondText{
@@ -70,8 +69,8 @@ h1, h2, h3 {
     
 }
 .pageBreak2 {
-    background-color: gray;
-    height: 15px;
+    background-color: darkgray;
+    height: 10px;
 }
 .thirdText {
     background-color: black;
